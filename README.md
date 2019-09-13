@@ -11,8 +11,6 @@ para el siguiente periodo. Este sistema informático será alimentado mediante l
 
   * Nombre de alumnos
   * Matricula de cada alumno
-  * Nombre de la carrera
-  * Id de la carrera
   * Procentaje de asistencia de cada alumno
   * Calificación por cada unidad
   * Nombre de la materia
